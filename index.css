@@ -30,6 +30,8 @@
   position: absolute;
 }
 
+
+
 .rock:before {
   content: "";
   border-bottom: 6px solid tan;
